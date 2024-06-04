@@ -9,7 +9,7 @@ children:
     permalink: /dissemination/
   - title: divider
   - title: about my research
-    permalink: /projects/
+    permalink: /about_research/
   - title: divider
   - title: PopGeo
     permalink: /popgeo/
