@@ -13,7 +13,7 @@ profile:
     <p>Paseo Tomás y Valiente, S/N</p>
     <p>Salamanca, 37007</p>
 
-news: false
+news: true
 selected_papers: true
 social: true
 ---
