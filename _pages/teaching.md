@@ -22,7 +22,7 @@ nav_order: 6
 </li>
 
 <li>Research Seminar (Spanish), <br>
-  <i>Master Degree in Political Science</i>, Curse 2023/24
+  <i>Master's Degree in Political Science</i>, Curse 2023/24
 </li>
 
 <li>Advanced Method and Techniques (English), <br>
