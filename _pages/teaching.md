@@ -7,6 +7,24 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Univerdidad de Salamanca
 
-Organize your courses by years, topics, or universities, however you like!
+<li>Social Science Methodology (Spanish), <br>
+  <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2024/25
+</li>
+
+<li>Political and Electoral Behaviour (Spanish), <br>
+  <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2023/24
+</li>
+
+<li>U.S. Politics and Government (Spanish), <br>
+  <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2023/24
+</li>
+
+<li>Research Seminar (Spanish), <br>
+  <i>Master Degree in Political Science</i>, Curse 2023/24
+</li>
+
+<li>Advanced Method and Techniques (English), <br>
+  <i>Bachelor's Degree in Global Studies</i>, Curse 2022/23
+</li>
