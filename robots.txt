@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://asanchezgarcia.github.io/sitemap.xml
