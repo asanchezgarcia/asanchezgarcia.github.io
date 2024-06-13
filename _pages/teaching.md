@@ -7,11 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-### Univerdidad de Salamanca
+# Univerdidad de Salamanca
 
-<li>Social Science Methodology (Spanish), <br>
-  <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2024/25
-</li>
+## Social Science Methodology
+<li>Bachelor's Degree in Political Science and Public Administration</li> <br>
+<li>Curse 2024/25 </li>
+
 
 <li>Political and Electoral Behaviour (Spanish), <br>
   <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2023/24
