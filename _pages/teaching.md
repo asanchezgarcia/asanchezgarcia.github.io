@@ -9,14 +9,15 @@ nav_order: 2
 
 # Univerdidad de Salamanca
 
-## Social Science Methodology
-<li>Bachelor's Degree in Political Science and Public Administration</li> <br>
+#### Social Science Methodology
+<li>Bachelor's Degree in Political Science and Public Administration</li>
+<li> 3 ECTS (Spanish) </li>
 <li>Curse 2024/25 </li>
 
-
-<li>Political and Electoral Behaviour (Spanish), <br>
-  <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2023/24
-</li>
+#### Political and Electoral Behaviour
+<li>Bachelor's Degree in Political Science and Public Administration</li>
+<li> 3 ECTS (Spanish) </li>
+<li>Curse 2023/24 </li>
 
 <li>U.S. Politics and Government (Spanish), <br>
   <i>Bachelor's Degree in Political Science and Public Administration</i>, Curse 2023/24
