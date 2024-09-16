@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
+title: media
 nav: true
-nav_order: 8
+nav_order: 4
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: dissemination 
+    permalink: /dissemination/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: about my research
+    permalink: /about_research/
 ---
