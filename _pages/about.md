@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Researcher, <a href='https://www.usal.es'>Universidad de Salamanca</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Área de Ciencia Política y Administración</p>
+    <p>Paseo Tomás y Valiente, S/N</p>
+    <p>Salamanca, 37007</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Area of Political Science and Administration at the University of Salamanca](https://acpa-usal.com/member/alvaro-sanchez-garcia/). Previously, I studied a Master's Degree in Political and Electoral Analysis at the Juan March Foundation (UC3M) and a Bachelor's Degree in Political Science and Public Administration at the University of Salamanca. I have been a visiting researcher at the [University Collage Dublin (UCD) School of Politics and International Relations (SPIRe)](https://www.ucd.ie/spire/), and University Carlos III of Madrid (UC3M). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a member of the research project "Geography, Polarization and the Rural-Urban Divide in the XXI Century" (UPF) funded by the Ministry of Science and Innovation of the Government of Spain. I was also a member of the project "Populism, Policy Preferences and Political Representation" (USAL). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Research lines: political geography, populist radical parties, economic geography and rural-urban studies.
