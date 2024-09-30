@@ -8,6 +8,8 @@ permalink: /about_research/
 
 Navarro, Juan, "[La despoblación en las zonas rurales alimenta a la derecha y a los ultras](https://elpais.com/espana/2024-09-28/la-despoblacion-azuza-la-brecha-rural-entre-derechas-e-izquierdas-y-vox-crece-entre-la-frustracion.html)", El País, 28/09/2024
 
+UPF, "[El despoblament de les zones rurals espanyoles afecta el comportament electoral i beneficia el PP](https://www.upf.edu/web/focus/noticies/-/asset_publisher/qOocsyZZDGHL/content/despoblament-zones-rurals-espanyoles-comportament-electoral/10193/maximized)", UPF News, 15/07/2024
+
 Sánchez-García, A; Rodon, T., and Delgado-García: "[La despoblación y su efecto sobre el comportamiento electoral](https://nadaesgratis.es/admin/la-despoblacion-y-su-efecto-sobre-el-comportamiento-electoral)", Nada es Gratis, 11/07/2024
 
 <b>Un análisis multidisciplinar de la España vacía: retrospectiva y prospectiva.</b> <i>Álvaro Sánchez-García, Pablo González-González, Emma Turiño, and Rubén Cuéllar</i>
