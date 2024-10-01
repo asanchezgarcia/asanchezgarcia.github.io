@@ -20,6 +20,6 @@ social: true
 
 I am a PhD student in the [Area of Political Science and Administration at the University of Salamanca](https://acpa-usal.com/member/alvaro-sanchez-garcia/). Previously, I studied a Master's Degree in Political and Electoral Analysis at the Juan March Foundation (UC3M) and a Bachelor's Degree in Political Science and Public Administration at the University of Salamanca. I have been a visiting researcher at the [University Collage Dublin (UCD) School of Politics and International Relations (SPIRe)](https://www.ucd.ie/spire/), and University Carlos III of Madrid (UC3M). 
 
-Currently, I am a member of the research projects "Geography, Polarization and the Rural-Urban Divide in the XXI Century" (UPF) and "Feelings Of left behindness, electoRal behavior, and chanGes in pOliTical compeTition in European couNtries (FORGOTTEN)" (USAL) both funded by the Ministry of Science and Innovation of the Government of Spain.
+Currently, I am a member of the research projects "Geography, Polarization and the Rural-Urban Divide in the XXI Century" (UPF) and "Feelings Of left behindness, electoRal behavior, and chanGes in pOliTical compeTition in European couNtries (FORGOTTEN)" (USAL) both funded by the Ministry of Science and Innovation of the Government of Spain. I was also a member of the project “Populism, Policy Preferences and Political Representation” (USAL).
 
 Research lines: political geography, populist radical parties, economic geography and rural-urban studies.
