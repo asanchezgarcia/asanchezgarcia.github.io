@@ -6,7 +6,7 @@ permalink: /about_research/
 
 <b>Where has everyone gone? Depopulation and voting behaviour in Spain.</b> <i>Álvaro Sánchez-García, Toni Rodon, and Maria Delgado-García</i>
 
-Cuní, Josep, "[Entrevista: Álvaro Sánchez-García en la cuarta hora de Las Mañanas de RNE](https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/cuarta-hora-02-10-24/16270551/)", National Spanish Radio, 02/10/2024
+Cuní, Josep, "[Entrevista: Álvaro Sánchez-García en la cuarta hora de Las Mañanas de RNE](https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/cuarta-hora-02-10-24/16270551/)", National Spanish Radio (RNE), 02/10/2024
 
 Navarro, Juan, "[La despoblación en las zonas rurales alimenta a la derecha y a los ultras](https://elpais.com/espana/2024-09-28/la-despoblacion-azuza-la-brecha-rural-entre-derechas-e-izquierdas-y-vox-crece-entre-la-frustracion.html)", El País, 28/09/2024
 
