@@ -11,5 +11,6 @@ children:
 - title: about my research
   permalink: /about_research/
 - title: divider
+- title: collaborations
   permalink: /collaborations/
 ---
