@@ -1,65 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+title: collaborations
+permalink: /collaborations/
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+- García Casado, C. "[Carlos Martínez, un alcalde de récords y la voz contra la despoblación para disputar la hegemonía del PP](https://www.infolibre.es/politica/carlos-martinez-alcalde-records-despoblacion-disputar-hegemonia-castellanoleonesa-pp_1_1925550.html)", Info Libre, 08/01/2025
 
-{% else %}
+- Martínez, V. "[La derecha pelea en el campo: 'Me fijaré en un partido con soluciones para mis problemas'](https://elpais.com/espana/2024-02-11/la-derecha-pelea-en-el-campo-me-fijare-en-un-partido-con-soluciones-para-mis-problemas.html)", El País, 11/02/2024
 
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+- Galaup, L. "[La España Vaciada se queda huérfana en el Congreso: los partidos localistas no logran representación](https://www.eldiario.es/politica/espana-vaciada-queda-huerfana-congreso-partidos-localistas-no-logran-representacion_1_10415509.html)", eldiario.es, 01/08/2023
