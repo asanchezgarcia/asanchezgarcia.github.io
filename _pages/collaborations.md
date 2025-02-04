@@ -5,7 +5,9 @@ permalink: /collaborations/
 ---
 
 ###### **Press**
-- García Casado, C. "[Carlos Martínez, un alcalde de récords y la voz contra la despoblación para disputar la hegemonía del PP](https://www.infolibre.es/politica/carlos-martinez-alcalde-records-despoblacion-disputar-hegemonia-castellanoleonesa-pp_1_1925550.html)", Info Libre, 08/01/2025
+- García Casado, C. "[Vox estalla en Castilla y León contra la 'oligarquía' de Abascal y deja el futuro del partido en el aire](https://www.infolibre.es/politica/vox-estalla-castilla-leon-oligarquia-abascal-deja-futuro-partido-aire_1_1939346.html)", InfoLibre, 04/02/2025
+
+- García Casado, C. "[Carlos Martínez, un alcalde de récords y la voz contra la despoblación para disputar la hegemonía del PP](https://www.infolibre.es/politica/carlos-martinez-alcalde-records-despoblacion-disputar-hegemonia-castellanoleonesa-pp_1_1925550.html)", InfoLibre, 08/01/2025
 
 - Martínez, V. "[La derecha pelea en el campo: 'Me fijaré en un partido con soluciones para mis problemas'](https://elpais.com/espana/2024-02-11/la-derecha-pelea-en-el-campo-me-fijare-en-un-partido-con-soluciones-para-mis-problemas.html)", El País, 11/02/2024
 
