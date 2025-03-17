@@ -23,3 +23,26 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom styles
+.about-info {
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+a {
+    color: rgb(70, 130, 180) !important; // Azul 'seaBlue'
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(100, 149, 237) !important; // Azul más claro al pasar el ratón
+    text-decoration: underline;
+}
+
+/* Barra de progreso (si usa clases de progreso) */
+.progress-bar {
+    background-color: rgb(70, 130, 180) !important; // Ajusta al azul 'seaBlue'
+}
+
+/* Links dentro de barras de progreso u otros elementos */
