@@ -31,18 +31,18 @@ $max-content-width: {{ site.max_width }};
 }
 
 a {
-    color: rgb(70, 130, 180) !important; // Azul 'seaBlue'
+    color: rgb(148, 176, 123) !important; // Verde 'Collard Pure'
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(100, 149, 237) !important; // Azul más claro al pasar el ratón
+    color: rgb(181, 197, 155) !important; // Verde 'Golden Collard' más claro al pasar el ratón
     text-decoration: underline;
 }
 
 /* Barra de progreso (si usa clases de progreso) */
 .progress-bar {
-    background-color: rgb(70, 130, 180) !important; // Ajusta al azul 'seaBlue'
+    background-color: rgb(80, 113, 60) !important; // Ajusta al verde 'Collard vine'
 }
 
 /* Links dentro de barras de progreso u otros elementos */
