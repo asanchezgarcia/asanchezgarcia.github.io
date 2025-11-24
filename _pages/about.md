@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD Researcher, <a href='https://www.usal.es'>Universidad de Salamanca</a>"
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Área de Ciencia Política y Administración</p>
-    <p>Paseo Tomás y Valiente, S/N</p>
-    <p>Salamanca, 37007</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: true
-selected_papers: true
-social: true
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-I hold a PhD in Comparative Politics from the [Area of Political Science and Administration at the University of Salamanca](https://acpa-usal.com/member/alvaro-sanchez-garcia/). Previously, I completed a Master’s Degree in Political and Electoral Analysis at the Juan March Foundation (UC3M) and a Bachelor’s Degree in Political Science and Public Administration at the University of Salamanca. I have been a visiting researcher at the [University College Dublin (UCD) School of Politics and International Relations (SPIRe)](https://www.ucd.ie/spire/), [Universidad Carlos III de Madrid](https://www.uc3m.es/social-sciences-department/home), [Instituto de Ciências Sociais (ICS) da Universidade de Lisboa](https://www.ics.ulisboa.pt), and [Università della Calabria](https://www.unical.it). 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Currently, I am a member of several research projects funded by the Spanish Ministry of Science and Innovation, including "Housing Outcomes, Mobility and Electoral Shifts from a Historical and Urbanistic Perspective (HOMES)" (UC3M) and "Feelings Of left behindness, electoRal behavior, and chanGes in pOliTical compeTition in European couNtries (FORGOTTEN)" (USAL). I have also taken part in completed projects such as: "Geography, Polarisation and the Rural-Urban Divide in the XXI Century" (UPF) and "Populism, Policy Preferences and Political Representation" (USAL).
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Research lines: political geography, populist radical parties, economic geography and rural-urban studies.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
