@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher, <a href='https://www.usal.es'>Universidad de Salamanca</a>
+subtitle: Postdoctoral Researcher, <a href='https://www.cepc.gob.es'>Spanish Centre for Political and Constitutional Studies</a>
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Área de Ciencia Política y Administración</p>
-    <p>Paseo Tomás y Valiente, S/N</p>
-    <p>Salamanca, 37007</p>
+    <p>Centro de Estudios Políticos y Constitucionales</p>
+    <p>Plaza de la Marina Española, 9</p>
+    <p>Madrid, 28013</p>
 
 news: true
 selected_papers: true
