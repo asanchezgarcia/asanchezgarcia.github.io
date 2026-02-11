@@ -4,6 +4,10 @@ title: about my research
 permalink: /about_research/
 ---
 
+### *<b>Burdens and gains. The association between house rent increases and voting in the city of Madrid .</b> <i>Álvaro Sánchez-García and Hugo Marcos-Marne</i>*
+
+- Barragán, Lourdes, "[El estudio que descubre cómo influye el 'efecto alquiler' en el voto de Madrid, según el barrio en el que vivas](https://www.eldiario.es/madrid/somos/estudio-descubre-influye-voto-madrid-efecto-alquiler-barrio-vivas_1_12961596.html?utm_source=dlvr.it&utm_medium)", eldiario.es, 09/02/2026
+
 ### *<b>Where has everyone gone? Depopulation and voting behaviour in Spain.</b> <i>Álvaro Sánchez-García, Toni Rodon, and Maria Delgado-García</i>*
 
 - Manucci, Luca, "[Interview: Depopulation and its impact on voting in Spain](https://populismobserver.com/2024/11/04/interview-66-depopulation-and-its-impact-on-voting-in-spain/)", Political Observer on Populism (POP), 04/11/2024
