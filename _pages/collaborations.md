@@ -5,6 +5,8 @@ permalink: /collaborations/
 ---
 
 ###### **Press**
+- Belled, S. and Villar, G. "[¿Quién gana con la despoblación? Así se mueve el voto de la España vaciada profunda a la urbana](https://www.elcorreo.com/elecciones/gana-despoblacion-mueve-voto-espana-vaciada-profunda-20260216193039-ntrc.html?ref=https%3A%2F%2Fwww.elcorreo.com%2Felecciones%2Fgana-despoblacion-mueve-voto-espana-vaciada-profunda-20260216193039-ntrc.html)", El Correo, 16/02/2026
+
 - García Casado, C. "[Vox estalla en Castilla y León contra la 'oligarquía' de Abascal y deja el futuro del partido en el aire](https://www.infolibre.es/politica/vox-estalla-castilla-leon-oligarquia-abascal-deja-futuro-partido-aire_1_1939346.html)", InfoLibre, 04/02/2025
 
 - García Casado, C. "[Carlos Martínez, un alcalde de récords y la voz contra la despoblación para disputar la hegemonía del PP](https://www.infolibre.es/politica/carlos-martinez-alcalde-records-despoblacion-disputar-hegemonia-castellanoleonesa-pp_1_1925550.html)", InfoLibre, 08/01/2025
