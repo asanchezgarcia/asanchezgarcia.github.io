@@ -5,6 +5,8 @@ permalink: /collaborations/
 ---
 
 ###### **Press**
+- Ruíz Valdivia, A. "[El método Rufián, la fórmula para que la izquierda se recupere a través de las provincias medianas](https://www.infolibre.es/politica/metodo-rufian-formula-izquierda-recupere-traves-provincias-medianas_1_2149148.html)", InfoLibre, 21/02/2026
+
 - Belled, S. and Villar, G. "[¿Quién gana con la despoblación? Así se mueve el voto de la España vaciada profunda a la urbana](https://www.elcorreo.com/elecciones/gana-despoblacion-mueve-voto-espana-vaciada-profunda-20260216193039-ntrc.html?ref=https%3A%2F%2Fwww.elcorreo.com%2Felecciones%2Fgana-despoblacion-mueve-voto-espana-vaciada-profunda-20260216193039-ntrc.html)", El Correo, 16/02/2026
 
 - García Casado, C. "[Vox estalla en Castilla y León contra la 'oligarquía' de Abascal y deja el futuro del partido en el aire](https://www.infolibre.es/politica/vox-estalla-castilla-leon-oligarquia-abascal-deja-futuro-partido-aire_1_1939346.html)", InfoLibre, 04/02/2025
