@@ -6,7 +6,7 @@ permalink: /collaborations/
 
 ###### **Press**
 
-- Abad, J. M., Hidalgo, M. y Sevillano, L. "[Cómo ha votado Castilla y León desde 1983, municipio a municipio, en mapas y datos](https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/como-ha-votado-castilla-y-leon-desde-1983-municipio-a-municipio-en-mapas-y-datos.html)", El País, 15/03/2026
+- Abad, J. M., Hidalgo, M. and Sevillano, L. "[Cómo ha votado Castilla y León desde 1983, municipio a municipio, en mapas y datos](https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/como-ha-votado-castilla-y-leon-desde-1983-municipio-a-municipio-en-mapas-y-datos.html)", El País, 15/03/2026
 
 - Macías, M. "[Dónde se juegan las elecciones de CYL: estos son los feudos clave que podrían decidir el futuro Gobierno de la autonomía](https://www.20minutos.es/castilla-y-leon/donde-juegan-las-elecciones-cyl-estos-son-los-feudos-clave-que-podrian-decidir-futuro-gobierno-autonomia_6944637_0.html)", 20 Minutos, 15/03/2026
 
