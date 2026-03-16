@@ -5,6 +5,17 @@ permalink: /collaborations/
 ---
 
 ###### **Press**
+
+- Abad, J. M., Hidalgo, M. y Sevillano, L. "[Cómo ha votado Castilla y León desde 1983, municipio a municipio, en mapas y datos](https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/como-ha-votado-castilla-y-leon-desde-1983-municipio-a-municipio-en-mapas-y-datos.html)", El País, 15/03/2026
+
+- Macías, M. "[Dónde se juegan las elecciones de CYL: estos son los feudos clave que podrían decidir el futuro Gobierno de la autonomía](https://www.20minutos.es/castilla-y-leon/donde-juegan-las-elecciones-cyl-estos-son-los-feudos-clave-que-podrian-decidir-futuro-gobierno-autonomia_6944637_0.html)", 20 Minutos, 15/03/2026
+
+- Villar, G. "[Tradición y descontento: así vota la Castilla y León despoblada](https://www.elnortedecastilla.es/elecciones/castilla-y-leon/tradicion-descontento-vota-castilla-leon-despoblada-20260312164807-ntrc.html), El Norte de Castilla, 12/03/2026"
+
+- Rodríguez, M. "[Debate en CyLTV: las claves de los expertos](https://www.eldiadevalladolid.com/noticia/zcbd05e25-86d5-4fff-920e96eac99da767/202603/debate-en-cyltv-las-claves-de-los-expertos)", El Día de Valladolid, 10/03/2026
+
+- Civieta, Ó. "[Elecciones Castilla y León: por qué el PP lleva 39 años gobernando a los castellanoleoneses](https://www.democrata.es/politica/elecciones-castilla-leon-por-que-pp-lleva-39-anos-gobernando/)", Demócrata, 06/03/2026
+
 - Alonso, D. "[Del mitin al 'reel': votar en la era de los algoritmos](https://www.diariodeburgos.es/noticia/zfac68664-25e1-4146-9fe07d3ec9509fa2/202602/del-mitin-al-reel-votar-en-la-era-de-los-algoritmos)", Diario de Burgos, 24/02/2026
 
 - Ruíz Valdivia, A. "[El método Rufián, la fórmula para que la izquierda se recupere a través de las provincias medianas](https://www.infolibre.es/politica/metodo-rufian-formula-izquierda-recupere-traves-provincias-medianas_1_2149148.html)", InfoLibre, 21/02/2026
