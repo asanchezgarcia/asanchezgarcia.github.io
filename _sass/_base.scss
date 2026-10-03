@@ -1854,3 +1854,63 @@ details.media-year {
     font-size: 0.9rem;
   }
 }
+
+// Own name highlighted in author lists outside the bibliography
+em.me {
+  font-style: normal;
+  border-bottom: 1px solid;
+}
+
+// Dissemination page: reports
+.reports .report {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  .report-year {
+    flex: 0 0 3.8rem;
+    color: var(--global-text-color-light);
+    font-size: 1.1rem;
+  }
+
+  .report-body {
+    flex: 1;
+  }
+
+  .title {
+    font-weight: bolder;
+
+    a {
+      color: var(--global-text-color);
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .links a.btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding: 0.25rem 1rem;
+    margin: 0.4rem 0.4rem 0 0;
+
+    &:hover {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
+  }
+
+  .report-press {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease;
+    font-size: 0.9rem;
+
+    &.open {
+      max-height: 60em;
+      margin-top: 0.75rem;
+    }
+  }
+}

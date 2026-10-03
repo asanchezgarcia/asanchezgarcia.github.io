@@ -16,9 +16,9 @@
           <span class="media-date">{{ e.date | date: '%d %b' }}</span>
           <span class="media-body">
             <span class="media-outlet">{{ e.outlet }}</span>
-            <a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>
+            {% if e.url %}<a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>{% else %}<span class="media-title">{{ e.title }}</span>{% endif %}
             {% if e.note %}<span class="media-meta">· {{ e.note }}</span>{% endif %}
-            {% if e.author %}<span class="media-meta">— {{ e.author }}</span>{% endif %}
+            {% if e.author %}<span class="media-meta">— {{ e.author | replace: 'Sánchez-García, Á.', '<em class="me">Sánchez-García, Á.</em>' }}</span>{% endif %}
           </span>
         </li>
       {% endfor %}
