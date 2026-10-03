@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Postdoctoral Researcher, <a href='https://www.cepc.gob.es'>Spanish Centre for Political and Constitutional Studies</a>
 

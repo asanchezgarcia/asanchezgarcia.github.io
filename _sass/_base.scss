@@ -1487,3 +1487,149 @@ details.working-papers {
     }
   }
 }
+
+// About page: scrollytelling story
+.story {
+  .story-chapter {
+    margin-bottom: 4rem;
+  }
+
+  .story-chapter-title {
+    margin-bottom: 1.5rem;
+  }
+
+  .scrolly {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+
+  .scrolly-figure {
+    position: sticky;
+    top: 5rem;
+    height: 70vh;
+
+    img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity 0.6s ease;
+      border-radius: 0.5rem;
+    }
+
+    img.active {
+      opacity: 1;
+    }
+  }
+
+  .scrolly-step {
+    min-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0.35;
+    transition: opacity 0.4s ease;
+
+    &.is-active {
+      opacity: 1;
+    }
+
+    &:last-child {
+      min-height: 60vh;
+    }
+
+    .step-img {
+      display: none;
+    }
+
+    h3 {
+      font-size: 1.5rem;
+      margin: 0.25rem 0 1rem;
+    }
+
+    p {
+      line-height: 1.7;
+    }
+  }
+
+  .step-kicker {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.8rem;
+    color: var(--global-theme-color);
+  }
+
+  .personal {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 2rem;
+    align-items: center;
+  }
+
+  .personal-photo {
+    width: 100%;
+    border-radius: 0.75rem;
+  }
+
+  .fact {
+    display: flex;
+    gap: 0.9rem;
+    align-items: flex-start;
+    margin-bottom: 1.1rem;
+
+    p {
+      margin: 0;
+      line-height: 1.6;
+    }
+  }
+
+  .fact-emoji {
+    font-size: 1.6rem;
+    line-height: 1.2;
+  }
+
+  .band {
+    display: inline-block;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 1rem;
+    padding: 0 0.6rem;
+    margin: 0.2rem 0.15rem 0 0;
+    font-size: 0.85rem;
+  }
+
+  @media (max-width: 768px) {
+    .scrolly {
+      grid-template-columns: 1fr;
+    }
+
+    .scrolly-figure {
+      display: none;
+    }
+
+    .scrolly-step {
+      min-height: 0;
+      opacity: 1;
+      margin-bottom: 2.5rem;
+
+      .step-img {
+        display: block;
+        width: 100%;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+      }
+    }
+
+    .personal {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+// Teaching hero: keep the speaker in frame
+.teaching-hero img:first-child {
+  object-position: 20% center;
+}
