@@ -8,9 +8,17 @@
       {% for wp in site.data.working_papers %}
         <li class="wp-item">
           <div class="title">{{ wp.title }}</div>
-          <div class="author">{{ wp.authors }}</div>
+          <div class="author">
+            {%- for a in wp.authors -%}
+              {%- if forloop.length > 1 -%}{%- if forloop.last -%}&nbsp;and&nbsp;{%- elsif forloop.first == false -%},&nbsp;{%- endif -%}{%- endif -%}
+              {%- if a.name == 'Álvaro Sánchez-García' -%}<em class="me">{{ a.name }}</em>
+              {%- elsif a.url -%}<a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.name }}</a>
+              {%- else -%}{{ a.name }}{%- endif -%}
+            {%- endfor -%}
+          </div>
           {% if wp.status %}<div class="periodical"><em>{{ wp.status }}</em></div>{% endif %}
           <div class="links">
+            {% if wp.abstract %}<a class="abstract btn btn-sm z-depth-0" role="button">📄 Abs</a>{% endif %}
             {% if wp.pdf %}
               {% if wp.pdf contains '://' %}
                 <a href="{{ wp.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">📥 PDF</a>
@@ -25,6 +33,9 @@
               >✉️ Upon request</a>
             {% endif %}
           </div>
+          {% if wp.abstract %}
+            <div class="abstract hidden">{{ wp.abstract | markdownify }}</div>
+          {% endif %}
         </li>
       {% endfor %}
     </ol>

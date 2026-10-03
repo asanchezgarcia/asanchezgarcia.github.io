@@ -6,12 +6,15 @@ subtitle: Postdoctoral Researcher, <a href='https://www.cepc.gob.es'>Spanish Cen
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic_teide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centro de Estudios Políticos y Constitucionales</p>
-    <p>Plaza de la Marina Española, 9</p>
-    <p>Madrid, 28013</p>
+    <div class="address-card">
+      <p class="address-title">Centro de Estudios Políticos y Constitucionales</p>
+      <p>Plz. de la Marina Española, 9</p>
+      <p>28013 Madrid, Spain</p>
+    </div>
+    <iframe class="office-map" title="Map: Centro de Estudios Políticos y Constitucionales" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.7185%2C40.4190%2C-3.7065%2C40.4245&amp;layer=mapnik&amp;marker=40.42170%2C-3.71250" loading="lazy"></iframe>
 
 news: true
 selected_papers: true

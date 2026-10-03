@@ -1,11 +1,38 @@
 # Working papers shown in the collapsible section at the bottom of the Publications page.
 # Fields:
-#   title:   paper title
-#   authors: author list as plain text
-#   status:  optional note (e.g. "Under review", "R&R at ...")
-#   pdf:     link to the PDF (URL, or a file name placed in assets/pdf/).
-#            If omitted, an "Upon request" button opens an e-mail to you.
+#   title:    paper title
+#   authors:  list of authors; each one has a name and, optionally, a url (personal website)
+#   status:   optional note (e.g. "Under review", "R&R at ...")
+#   abstract: optional; use "|" and leave a blank line between paragraphs
+#   pdf:      link to the PDF (URL, or a file name placed in assets/pdf/).
+#             If omitted, an "Upon request" button opens an e-mail to you.
 
-- title: "Bullrings and voting behaviour in Spain"
-  authors: "Álvaro Sánchez-García"
-  status: "Work in progress"
+- title: "From the bullring to the ballot box: How cultural symbols shape voting behaviour"
+  authors:
+    - name: Álvaro Sánchez-García
+  abstract: |
+    Public infrastructures can operate as powerful cultural symbols shaping political behaviour. This paper argues that bullrings, deeply embedded in Spanish folklore and historically associated with nationalism and traditionalism, influence electoral preferences through two complementary mechanisms. First, repeated exposure to bullrings makes national identity more cognitively salient, affecting political behaviour in surrounding neighbourhoods. Second, municipalities hosting bullrings foster social norms favourable to bullfighting, increasing support for parties defending these traditions.
+
+    I assemble an original geo-referenced dataset of Spanish bullrings and evaluate these arguments across four national elections (2015–2023). To identify the social norm mechanism, I employ entropy balancing at the municipal level. Municipalities hosting bullrings exhibit higher support for traditional parties, particularly the centre-left PSOE, while parties advancing anti-bullfighting positions perform worse. Original survey data further show that individuals socialised in municipalities hosting bullrings are more likely to support traditional parties and less likely to endorse anti-bullfighting options.
+
+    To test symbolic exposure, I leverage census-tract data covering over 36,000 neighbourhoods. Proximity to bullrings is associated with higher support for parties promoting Spanish nationalism, especially the Conservative Party (PP), while radical-left parties perform better further away. Overall, these findings show how historically embedded cultural infrastructures shape democratic competition through symbolic exposure and local socialisation, highlighting the political relevance of symbolic built environments.
+
+- title: "The Rural–Urban Gap in Policy Priorities"
+  authors:
+    - name: Álvaro Sánchez-García
+    - name: Javier Martínez-Cantó
+      url: https://www.javiermcanto.es
+  abstract: |
+    The rural–urban divide has received renewed attention over the last decade, with a growing body of research documenting differences in the political attitudes and preferences of citizens living in rural and urban areas. Urban residents tend to hold more cosmopolitan views, whereas rural residents generally display more traditional and stable political orientations. However, we know much less about whether these two groups also differ in the policy issues they prioritize. This question is important because the observed representation gap between rural and urban populations may be driven not only by differences in policy preferences, but also by differences in policy priorities. Despite its relevance, existing evidence on territorial differences in policy priorities remains largely confined to the United States (Yildirim and Solvig, 2025). In this study, we address this gap using individual-level data from more than 200 surveys conducted by the Spanish Centro de Investigaciones Sociológicas (CIS) between 2002 and 2025. The surveys include the Most Important Problem (MIP) question and have been merged into a single dataset and coded using the Comparative Agendas Project (CAP) framework. This unique data source allows us to examine differences in policy priorities between rural and urban residents while accounting for a wide set of compositional factors that may shape individual policy concerns.
+
+- title: "Red Lights. The Political Consequences of Traffic Restrictions: Causal Evidence from Madrid"
+  authors:
+    - name: Álvaro Sánchez-García
+    - name: Álvaro San Román
+      url: https://asanromanpoz.github.io
+  abstract: |
+    In recent years, urban governments across Europe have increasingly implemented restrictions on car mobility in dense city centers, often justified on environmental grounds. Policies such as Low Emission Zones (LEZs) or pedestrianization initiatives aim not only to reduce pollution but also to improve overall quality of life. While prior research shows that such policies often generate local opposition or fail to yield electoral gains for implementing governments, we know less about how the costs and benefits of these measures are spatially distributed. Furthermore, although frequently framed through an environmental lens, these mobility policies predate the politicization of climate change and are promoted by a broader spectrum of political parties than typically assumed.
+
+    This paper examines the political consequences of two mobility restriction policies introduced in Madrid under very different ideological contexts. First, we analyze the 2002 implementation of the Regulated Parking Zone (Servicio de Estacionamiento Regulado, SER) by the conservative Partido Popular, in power from 1989 to 2015. Second, we assess the 2018 introduction of Madrid Central, a far more restrictive policy enacted by the leftist municipal government of Ahora Madrid (2015–2019). While the SER zones aimed to reduce car presence by limiting parking to residents but permitting circulation, Madrid Central prohibited non-resident vehicles from entering the zone entirely. We interpret these two cases as representing a broader ideological cleavage in green policymaking: disincentivization (center-right) versus prohibition (left), each eliciting different levels and patterns of citizen opposition.
+
+    Using a novel fine-grained data set (census tract-level, the most disaggregated administrative unit in the Spanish administration), we rely on causal techniques such as TWFE, DiD, and RDD. We find that while both policies generated local electoral backlash, opposition was significantly higher against Madrid Central. However, this opposition is not evenly distributed: residents living just outside the restricted zones, who experience spillover effects without direct benefits, are the most penalizing. In contrast, residents within the restricted zones, who enjoy improved local conditions, tend to reward the incumbent government. These findings highlight the importance of spatially disaggregated analysis in understanding the electoral consequences of urban environmental policies.
