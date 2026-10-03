@@ -1,0 +1,30 @@
+# Teaching experience, grouped by institution (newest first within each).
+# Fields per course: name, year (academic year), programme, language.
+
+- institution: University of Salamanca
+  url: https://www.usal.es
+  courses:
+    - name: Political Science
+      year: 2025/26
+      programme: Bachelor's Degree in Global Studies
+      language: English
+    - name: Social Science Methodology
+      year: 2024/25
+      programme: Bachelor's Degree in Political Science and Public Administration
+      language: Spanish
+    - name: Political and Electoral Behaviour
+      year: 2023/24
+      programme: Bachelor's Degree in Political Science and Public Administration
+      language: Spanish
+    - name: U.S. Politics and Government
+      year: 2023/24
+      programme: Bachelor's Degree in Political Science and Public Administration
+      language: Spanish
+    - name: Research Seminar
+      year: 2023/24
+      programme: Master's Degree in Political Science
+      language: Spanish
+    - name: Advanced Methods and Techniques
+      year: 2022/23
+      programme: Bachelor's Degree in Global Studies
+      language: English

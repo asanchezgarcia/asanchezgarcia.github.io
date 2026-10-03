@@ -1,0 +1,29 @@
+# Short courses and workshops. Each one becomes a card with a slide gallery.
+# images: files in assets/img/courses/ (the first one is the cover).
+# links: label + url (+ optional emoji).
+
+- title: "R que R: From Rookies to Regression"
+  where: Area of Political Science, University of Salamanca
+  year: 2026
+  language: Spanish
+  description: >
+    An introductory course to R for social scientists: from opening a dataset for the
+    first time to cleaning and reshaping data, visualising it with ggplot2 (including maps),
+    and estimating linear and logistic regression models. All materials, data and code
+    are openly available.
+  images:
+    - rquer-1.jpg
+    - rquer-2.jpg
+    - rquer-3.jpg
+    - rquer-4.jpg
+    - rquer-5.jpg
+  links:
+    - label: Materials on GitHub
+      emoji: 💻
+      url: https://github.com/asanchezgarcia/RqueR
+    - label: Slides (PDF)
+      emoji: 📑
+      url: https://github.com/asanchezgarcia/RqueR/blob/main/R%20que%20R.pdf
+    - label: R script
+      emoji: 📜
+      url: https://github.com/asanchezgarcia/RqueR/blob/main/Script.R
