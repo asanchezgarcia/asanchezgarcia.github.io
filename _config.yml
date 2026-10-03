@@ -298,8 +298,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sánchez-García]
+  first_name: [Álvaro, Á.]
 
   style: apa
   locale: en
@@ -335,6 +335,7 @@ filtered_bibtex_keywords:
     abstract,
     additional_info,
     altmetric,
+    dimensions,
     arxiv,
     award,
     award_name,

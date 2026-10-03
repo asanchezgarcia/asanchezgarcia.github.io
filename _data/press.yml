@@ -1,0 +1,37 @@
+# Press coverage for each publication.
+# The key must match the BibTeX key of the article in _bibliography/papers.bib.
+# Each item: outlet, title, url, author (optional), date (optional, DD/MM/YYYY).
+# A "📰 Press" button appears automatically for any article listed here.
+
+sanchezgarcia_rents_2026:
+  - outlet: eldiario.es
+    title: "El estudio que descubre cómo influye el 'efecto alquiler' en el voto de Madrid, según el barrio en el que vivas"
+    url: https://www.eldiario.es/madrid/somos/estudio-descubre-influye-voto-madrid-efecto-alquiler-barrio-vivas_1_12961596.html
+    author: Lourdes Barragán
+    date: 09/02/2026
+
+sanchezwhere_2024:
+  - outlet: Populism Observer (POP)
+    title: "Interview: Depopulation and its impact on voting in Spain"
+    url: https://populismobserver.com/2024/11/04/interview-66-depopulation-and-its-impact-on-voting-in-spain/
+    author: Luca Manucci
+    date: 04/11/2024
+  - outlet: RNE (Spanish National Radio)
+    title: "Álvaro Sánchez-García en la cuarta hora de Las Mañanas de RNE"
+    url: https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/cuarta-hora-02-10-24/16270551/
+    author: Josep Cuní
+    date: 02/10/2024
+  - outlet: El País
+    title: "La despoblación en las zonas rurales alimenta a la derecha y a los ultras"
+    url: https://elpais.com/espana/2024-09-28/la-despoblacion-azuza-la-brecha-rural-entre-derechas-e-izquierdas-y-vox-crece-entre-la-frustracion.html
+    author: Juan Navarro
+    date: 28/09/2024
+  - outlet: UPF News
+    title: "El despoblament de les zones rurals espanyoles afecta el comportament electoral i beneficia el PP"
+    url: https://www.upf.edu/web/focus/noticies/-/asset_publisher/qOocsyZZDGHL/content/despoblament-zones-rurals-espanyoles-comportament-electoral/10193/maximized
+    date: 15/07/2024
+  - outlet: Nada es Gratis
+    title: "La despoblación y su efecto sobre el comportamiento electoral"
+    url: https://nadaesgratis.es/admin/la-despoblacion-y-su-efecto-sobre-el-comportamiento-electoral
+    author: Álvaro Sánchez-García, Toni Rodon and Maria Delgado-García
+    date: 11/07/2024

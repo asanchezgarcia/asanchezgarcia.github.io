@@ -1,0 +1,11 @@
+# Working papers shown in the collapsible section at the bottom of the Publications page.
+# Fields:
+#   title:   paper title
+#   authors: author list as plain text
+#   status:  optional note (e.g. "Under review", "R&R at ...")
+#   pdf:     link to the PDF (URL, or a file name placed in assets/pdf/).
+#            If omitted, an "Upon request" button opens an e-mail to you.
+
+- title: "Bullrings and voting behaviour in Spain"
+  authors: "Álvaro Sánchez-García"
+  status: "Work in progress"

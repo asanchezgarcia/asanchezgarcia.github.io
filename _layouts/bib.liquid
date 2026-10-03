@@ -186,31 +186,35 @@
     <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+          🏆 {% if entry.award_name %}{{ entry.award_name }}{% else %}Awards{% endif -%}
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">📄 Abs</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+        <a class="bibtex btn btn-sm z-depth-0" role="button">📚 Bib</a>
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
-          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">🔗 HTML</a>
         {% else %}
-          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">🔗 HTML</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">📥 PDF</a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">📥 PDF</a>
         {% endif %}
+      {% endif %}
+      {% assign entry_press = site.data.press[entry.key] %}
+      {% if entry_press %}
+        <a class="press btn btn-sm z-depth-0" role="button">📰 Press</a>
       {% endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
@@ -344,6 +348,21 @@
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry_press %}
+      <!-- Hidden press block -->
+      <div class="press hidden">
+        <ul>
+          {% for item in entry_press %}
+            <li>
+              {% if item.outlet %}<strong>{{ item.outlet }}</strong> · {% endif %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+              {% if item.author %}<span class="press-meta">— {{ item.author }}</span>{% endif %}
+              {% if item.date %}<span class="press-meta">({{ item.date }})</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
       </div>
     {% endif %}
 

@@ -1,0 +1,32 @@
+{% if site.data.working_papers and site.data.working_papers.size > 0 %}
+  <details class="working-papers">
+    <summary>
+      <span class="wp-heading">🛠️ Working papers</span>
+      <span class="wp-count">{{ site.data.working_papers.size }}</span>
+    </summary>
+    <ol class="wp-list">
+      {% for wp in site.data.working_papers %}
+        <li class="wp-item">
+          <div class="title">{{ wp.title }}</div>
+          <div class="author">{{ wp.authors }}</div>
+          {% if wp.status %}<div class="periodical"><em>{{ wp.status }}</em></div>{% endif %}
+          <div class="links">
+            {% if wp.pdf %}
+              {% if wp.pdf contains '://' %}
+                <a href="{{ wp.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">📥 PDF</a>
+              {% else %}
+                <a href="{{ wp.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">📥 PDF</a>
+              {% endif %}
+            {% else %}
+              <a
+                href="mailto:{{ site.email }}?subject={{ 'Working paper request: ' | append: wp.title | url_encode | replace: '+', '%20' }}"
+                class="btn btn-sm z-depth-0"
+                role="button"
+              >✉️ Upon request</a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  </details>
+{% endif %}
