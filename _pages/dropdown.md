@@ -8,9 +8,6 @@ children:
 - title: dissemination
   permalink: /dissemination/
 - title: divider
-- title: about my research
-  permalink: /about_research/
-- title: divider
 - title: collaborations
   permalink: /collaborations/
 ---

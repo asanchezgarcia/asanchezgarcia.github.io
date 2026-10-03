@@ -1,0 +1,222 @@
+# Media appearances shown on the Collaborations page.
+#
+# HOW TO ADD A NEW ONE: copy an existing block, paste it in the right list
+# (press / radio / tv) and change the values. Order does not matter:
+# the page sorts everything by date and groups it by year automatically.
+#
+#   date:    YYYY-MM-DD (e.g. 2026-03-20)
+#   outlet:  newspaper, radio station or TV channel
+#   title:   headline (press) or programme name (radio / TV)
+#   url:     link
+#   author:  journalist(s), optional (press only)
+#   note:    optional short note, e.g. "Interview" or "Debate"
+
+
+press:
+  - date: 2026-03-20
+    outlet: "InfoLibre"
+    title: "Anatomía del fenómeno Rufián, el político que habla como la calle y siembra la esperanza en la izquierda"
+    url: https://www.infolibre.es/politica/anatomia-fenomeno-rufian-politico-habla-calle-siembra-esperanza-izquierda_1_2164958.html
+    author: "Ruíz Valdivia, A."
+  - date: 2026-03-15
+    outlet: "El País"
+    title: "Cómo ha votado Castilla y León desde 1983, municipio a municipio, en mapas y datos"
+    url: https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-15/como-ha-votado-castilla-y-leon-desde-1983-municipio-a-municipio-en-mapas-y-datos.html
+    author: "Abad, J. M., Hidalgo, M. and Sevillano, L."
+  - date: 2026-03-15
+    outlet: "20 Minutos"
+    title: "Dónde se juegan las elecciones de CYL: estos son los feudos clave que podrían decidir el futuro Gobierno de la autonomía"
+    url: https://www.20minutos.es/castilla-y-leon/donde-juegan-las-elecciones-cyl-estos-son-los-feudos-clave-que-podrian-decidir-futuro-gobierno-autonomia_6944637_0.html
+    author: "Macías, M."
+  - date: 2026-03-12
+    outlet: "El Norte de Castilla"
+    title: "Tradición y descontento: así vota la Castilla y León despoblada"
+    url: https://www.elnortedecastilla.es/elecciones/castilla-y-leon/tradicion-descontento-vota-castilla-leon-despoblada-20260312164807-ntrc.html
+    author: "Villar, G."
+  - date: 2026-03-10
+    outlet: "El Día de Valladolid"
+    title: "Debate en CyLTV: las claves de los expertos"
+    url: https://www.eldiadevalladolid.com/noticia/zcbd05e25-86d5-4fff-920e96eac99da767/202603/debate-en-cyltv-las-claves-de-los-expertos
+    author: "Rodríguez, M."
+  - date: 2026-03-06
+    outlet: "Demócrata"
+    title: "Elecciones Castilla y León: por qué el PP lleva 39 años gobernando a los castellanoleoneses"
+    url: https://www.democrata.es/politica/elecciones-castilla-leon-por-que-pp-lleva-39-anos-gobernando/
+    author: "Civieta, Ó."
+  - date: 2026-02-24
+    outlet: "Diario de Burgos"
+    title: "Del mitin al 'reel': votar en la era de los algoritmos"
+    url: https://www.diariodeburgos.es/noticia/zfac68664-25e1-4146-9fe07d3ec9509fa2/202602/del-mitin-al-reel-votar-en-la-era-de-los-algoritmos
+    author: "Alonso, D."
+  - date: 2026-02-21
+    outlet: "InfoLibre"
+    title: "El método Rufián, la fórmula para que la izquierda se recupere a través de las provincias medianas"
+    url: https://www.infolibre.es/politica/metodo-rufian-formula-izquierda-recupere-traves-provincias-medianas_1_2149148.html
+    author: "Ruíz Valdivia, A."
+  - date: 2026-02-16
+    outlet: "El Correo"
+    title: "¿Quién gana con la despoblación? Así se mueve el voto de la España vaciada profunda a la urbana"
+    url: https://www.elcorreo.com/elecciones/gana-despoblacion-mueve-voto-espana-vaciada-profunda-20260216193039-ntrc.html?ref=https%3A%2F%2Fwww.elcorreo.com%2Felecciones%2Fgana-despoblacion-mueve-voto-espana-vaciada-profunda-20260216193039-ntrc.html
+    author: "Belled, S. and Villar, G."
+  - date: 2025-02-04
+    outlet: "InfoLibre"
+    title: "Vox estalla en Castilla y León contra la 'oligarquía' de Abascal y deja el futuro del partido en el aire"
+    url: https://www.infolibre.es/politica/vox-estalla-castilla-leon-oligarquia-abascal-deja-futuro-partido-aire_1_1939346.html
+    author: "García Casado, C."
+  - date: 2025-01-08
+    outlet: "InfoLibre"
+    title: "Carlos Martínez, un alcalde de récords y la voz contra la despoblación para disputar la hegemonía del PP"
+    url: https://www.infolibre.es/politica/carlos-martinez-alcalde-records-despoblacion-disputar-hegemonia-castellanoleonesa-pp_1_1925550.html
+    author: "García Casado, C."
+  - date: 2024-02-11
+    outlet: "El País"
+    title: "La derecha pelea en el campo: 'Me fijaré en un partido con soluciones para mis problemas'"
+    url: https://elpais.com/espana/2024-02-11/la-derecha-pelea-en-el-campo-me-fijare-en-un-partido-con-soluciones-para-mis-problemas.html
+    author: "Martínez, V."
+  - date: 2023-08-01
+    outlet: "eldiario.es"
+    title: "La España Vaciada se queda huérfana en el Congreso: los partidos localistas no logran representación"
+    url: https://www.eldiario.es/politica/espana-vaciada-queda-huerfana-congreso-partidos-localistas-no-logran-representacion_1_10415509.html
+    author: "Galaup, L."
+  - date: 2023-07-25
+    outlet: "Deutsche Welle"
+    title: "Elección 23J en España: ¿Qué significa para América Latina"
+    url: https://www.dw.com/es/elecciones-del-23j-en-españa-qué-significan-los-resultados-para-américa-latina/a-66347274
+    author: "Ospina-Valencia, J."
+  - date: 2023-07-21
+    outlet: "Deutsche Welle"
+    title: "Elecciones España 2023: ¿a quién votan los latinoamericanos?"
+    url: https://www.dw.com/es/elecciones-españa-2023-a-quién-votan-los-latinoamericanos/a-66289851
+    author: "Ariet, A."
+  - date: 2023-06-05
+    outlet: "eldiario.es"
+    title: "El triunfo de los partidos locales y regionales planta cara al bipartidismo en Castilla y León"
+    url: https://www.eldiario.es/castilla-y-leon/politica/triunfo-partidos-locales-regionales-planta-cara-bipartidismo-castilla-leon_1_10259986.html
+    author: "Camazón, A."
+  - date: 2022-10-25
+    outlet: "El País"
+    title: "Despoblación: Por qué la España vacía se llena de partidos de provincia"
+    url: https://elpais.com/espana/2022-10-25/por-que-la-espana-vacia-se-llena-de-partidos-de-provincia.html
+    author: "Navarro, J."
+  - date: 2022-10-25
+    outlet: "COPE"
+    title: "Badajoz y Cáceres, entre provincias de la España vaciada 'que se estancan'"
+    url: https://www.cope.es/emisoras/extremadura/badajoz-provincia/badajoz/noticias/badajoz-caceres-entre-provincias-espana-vaciada-que-estanca-20221025_2361655
+  - date: 2022-10-25
+    outlet: "Europa Press"
+    title: "Un informe vincula a la plataforma de la España Vaciada con la ideología de izquierdas, pese a su intento de desmarcarse"
+    url: https://www.europapress.es/nacional/noticia-informe-vincula-plataforma-espana-vaciada-ideologia-izquierdas-pese-intento-desmarcarse-20221025112548.html
+  - date: 2022-10-25
+    outlet: "La Tribuna de Ciudad Real"
+    title: "Ciudad Real, entre la España vacía que 'se estanca'"
+    url: https://www.latribunadeciudadreal.es/noticia/Z939E9E19-EFAF-F804-2C5AE72B6205967A/202210/ciudad-real-entre-la-espana-que-se-estanca
+    author: "EFE"
+  - date: 2022-10-25
+    outlet: "La Crónica de Salamanca"
+    title: "Cómo empezó la despoblación y se convirtió en una ideología"
+    url: https://lacronicadesalamanca.com/372482-como-empezo-la-despoblacion-y-se-convirtio-en-una-ideologia/
+  - date: 2022-10-25
+    outlet: "Tribuna de Salamanca"
+    title: "Investigadores de la USAL sitúan a la plataforma de la España Vaciada 'ligeramente' más cerca de la ideología de izquierdas"
+    url: https://www.tribunasalamanca.com/noticias/309100/investigadores-de-la-usal-situan-a-la-plataforma-de-la-espana-vaciada-ligeramente-mas-cerca-de-la-ideologia-de-izquierdas
+  - date: 2022-06-18
+    outlet: "eldiario.es"
+    title: "Quién votó a Vox en Castilla y León: hombres, jóvenes, autónomos y de clase alta"
+    url: https://www.eldiario.es/castilla-y-leon/politica/voto-vox-castilla-leon-hombres-jovenes-autonomos-clase-alta_1_9085508.html
+    author: "Camazón, A."
+  - date: 2022-02-15
+    outlet: "COPE"
+    title: "Los expertos creen que 'no se pueden extrapolar' los resultados del 13F a las locales pero 'marcan tendencias'"
+    url: https://www.cope.es/emisoras/castilla-y-leon/avila-provincia/avila/noticias/los-expertos-creen-que-pueden-extrapolar-los-resultados-del-13f-las-locales-pero-marca-tendencias-20220215_1858004
+    author: "San Pedro, R."
+  - date: 2022-02-06
+    outlet: "eldiario.es"
+    title: "Castilla y León centra la campaña en el medio rural: más de la mitad de los votos se juegan en los pueblos"
+    url: https://www.eldiario.es/castilla-y-leon/politica/castilla-leon-centra-campana-medio-rural-mitad-votos-juegan-pueblos_1_8705309.html
+    author: "Camazón, A."
+  - date: 2021-04-20
+    outlet: "COPE"
+    title: "Los principales objetivos geográficos de cada partido para la campaña próximo 4-M"
+    url: https://www.cope.es/actualidad/espana/amp/noticias/los-principales-objetivos-geograficos-cada-partido-para-campana-proximo-4-m-20210420_1248529
+    author: "Sobejarano, J."
+  - date: 2019-09-18
+    outlet: "El Norte de Castilla"
+    title: "El PSOE y el PP de la comunidad creen que mejorarán sus resultados el 10-N"
+    url: https://www.elnortedecastilla.es/castillayleon/barcones-considera-sanchez-20190918135331-nt.html
+    author: "Posada, A."
+
+radio:
+  - date: 2024-06-07
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20240607_192000_194000/
+  - date: 2024-04-19
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20240419_192000_194000/
+  - date: 2023-05-11
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20230511_192000_194000/
+  - date: 2022-05-10
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20220510_192000_194000/
+  - date: 2022-02-15
+    outlet: "COPE"
+    title: "Herrera en COPE Ávila"
+    url: https://www.cope.es/emisoras/castilla-y-leon/avila-provincia/avila/herrera-en-cope-en-avila/audios/politologo-salmantino-alvaro-sanchez-cope-avila-20220215_1794046
+  - date: 2022-02-09
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20220209_192000_200000/
+  - date: 2022-02-09
+    outlet: "COPE"
+    title: "Herrera en COPE Ávila"
+    url: https://www.cope.es/n/1777713
+  - date: 2022-01-17
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20220117_192000_194000/
+  - date: 2022-01-10
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20220110_192000_194000/
+  - date: 2019-07-09
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20190709_192000_194000/
+  - date: 2019-06-11
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20190611_192000_194000/
+  - date: 2019-05-28
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20190528_192000_194000/
+  - date: 2019-05-26
+    outlet: "Cadena SER"
+    title: "A vivir Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_avivirquesondosdiascastillayleon_20190526_120000_130000/
+  - date: 2019-05-24
+    outlet: "Cadena SER"
+    title: "La Ventana Castilla y León"
+    url: https://play.cadenaser.com/audio/ser_castillayleon_laventanacastillayleon_20190524_192000_200000/
+  - date: 2019-04-09
+    outlet: "Catalunya Ràdio"
+    title: "Catalunya migdia"
+    url: https://www.ccma.cat/catradio/alacarta/catalunya-migdia/castella-es-espanya-una-espanya-que-fa-30-anys-que-vota-al-pp/audio/1035979/
+
+tv:
+  - date: 2024-02-16
+    outlet: "Castilla y León Televisión"
+    title: "Informativos"
+    url: https://www.cyltv.es/Noticia/FCFF7BD4-A31B-B9B1-8D5E0EEE36817714/La-politica-y-la-edad
+  - date: 2023-03-23
+    outlet: "Castilla y León Televisión"
+    title: "Informativos"
+    url: https://www.cyltv.es/Noticia/9844E52D-DED4-2C81-93BA53A489B332F7/La-politica-no-engancha-a-los-jovenes
+  - date: 2022-10-27
+    outlet: "Castilla y León Televisión"
+    title: "Cuestión de Prioridades"
+    url: https://youtu.be/qF08EiWjz40

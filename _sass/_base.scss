@@ -1759,3 +1759,98 @@ details.working-papers {
     }
   }
 }
+
+// Collaborations page: media appearances
+.media-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 0.5rem 0 2rem;
+
+  a {
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.75rem;
+    padding: 1rem;
+    text-align: center;
+    color: var(--global-text-color);
+    transition: border-color 0.2s ease;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+
+  strong {
+    display: block;
+    font-size: 2rem;
+    line-height: 1.1;
+    color: var(--global-theme-color);
+  }
+
+  span {
+    font-size: 0.9rem;
+  }
+}
+
+.media-section {
+  margin-top: 2.5rem;
+  scroll-margin-top: 5rem;
+}
+
+details.media-year {
+  border-bottom: 1px solid var(--global-divider-color);
+
+  summary {
+    cursor: pointer;
+    padding: 0.6rem 0;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .media-count {
+    font-size: 0.75rem;
+    font-weight: normal;
+    color: var(--global-text-color-light);
+    border: 1px solid var(--global-text-color-light);
+    border-radius: 1rem;
+    padding: 0 0.5rem;
+  }
+}
+
+.media-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1rem;
+
+  li {
+    display: flex;
+    gap: 1rem;
+    padding: 0.45rem 0;
+    line-height: 1.5;
+  }
+
+  .media-date {
+    flex: 0 0 3.8rem;
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+    padding-top: 0.1rem;
+  }
+
+  .media-outlet {
+    font-weight: 600;
+    margin-right: 0.35rem;
+
+    &::after {
+      content: " ·";
+      font-weight: normal;
+    }
+  }
+
+  .media-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+}

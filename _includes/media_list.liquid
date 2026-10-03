@@ -1,0 +1,27 @@
+{% comment %}
+  Renders one block of media appearances grouped by year.
+  Usage: {% include media_list.liquid items=site.data.media_appearances.press kind="press" %}
+{% endcomment %}
+{% assign sorted = include.items | sort: 'date' | reverse %}
+{% assign by_year = sorted | group_by_exp: 'e', "e.date | date: '%Y'" %}
+{% for group in by_year %}
+  <details class="media-year" {% if forloop.first %}open{% endif %}>
+    <summary>
+      <span>{{ group.name }}</span>
+      <span class="media-count">{{ group.items.size }}</span>
+    </summary>
+    <ul class="media-list">
+      {% for e in group.items %}
+        <li>
+          <span class="media-date">{{ e.date | date: '%d %b' }}</span>
+          <span class="media-body">
+            <span class="media-outlet">{{ e.outlet }}</span>
+            <a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>
+            {% if e.note %}<span class="media-meta">· {{ e.note }}</span>{% endif %}
+            {% if e.author %}<span class="media-meta">— {{ e.author }}</span>{% endif %}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  </details>
+{% endfor %}
