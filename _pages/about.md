@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, <a href='https://www.cepc.gob.es'>Spanish Cen
 
 profile:
   align: right
-  image: prof_pic_teide.jpg
+  image: prof_pic_teide_pensive.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div class="address-card">

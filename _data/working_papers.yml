@@ -19,17 +19,17 @@
 
 - title: "The Rural–Urban Gap in Policy Priorities"
   authors:
-    - name: Álvaro Sánchez-García
     - name: Javier Martínez-Cantó
       url: https://www.javiermcanto.es
+    - name: Álvaro Sánchez-García
   abstract: |
     The rural–urban divide has received renewed attention over the last decade, with a growing body of research documenting differences in the political attitudes and preferences of citizens living in rural and urban areas. Urban residents tend to hold more cosmopolitan views, whereas rural residents generally display more traditional and stable political orientations. However, we know much less about whether these two groups also differ in the policy issues they prioritize. This question is important because the observed representation gap between rural and urban populations may be driven not only by differences in policy preferences, but also by differences in policy priorities. Despite its relevance, existing evidence on territorial differences in policy priorities remains largely confined to the United States (Yildirim and Solvig, 2025). In this study, we address this gap using individual-level data from more than 200 surveys conducted by the Spanish Centro de Investigaciones Sociológicas (CIS) between 2002 and 2025. The surveys include the Most Important Problem (MIP) question and have been merged into a single dataset and coded using the Comparative Agendas Project (CAP) framework. This unique data source allows us to examine differences in policy priorities between rural and urban residents while accounting for a wide set of compositional factors that may shape individual policy concerns.
 
 - title: "Red Lights. The Political Consequences of Traffic Restrictions: Causal Evidence from Madrid"
   authors:
-    - name: Álvaro Sánchez-García
     - name: Álvaro San Román
       url: https://asanromanpoz.github.io
+    - name: Álvaro Sánchez-García
   abstract: |
     In recent years, urban governments across Europe have increasingly implemented restrictions on car mobility in dense city centers, often justified on environmental grounds. Policies such as Low Emission Zones (LEZs) or pedestrianization initiatives aim not only to reduce pollution but also to improve overall quality of life. While prior research shows that such policies often generate local opposition or fail to yield electoral gains for implementing governments, we know less about how the costs and benefits of these measures are spatially distributed. Furthermore, although frequently framed through an environmental lens, these mobility policies predate the politicization of climate change and are promoted by a broader spectrum of political parties than typically assumed.
 
