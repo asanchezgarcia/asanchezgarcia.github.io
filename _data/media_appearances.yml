@@ -13,6 +13,11 @@
 
 
 press:
+  - date: 2026-07-19
+    outlet: "Jornal de Notícias"
+    title: "Gabriel Rufián, o independentista bom orador que sonha unir a Esquerda espanhola"
+    url: https://www.jn.pt/mundo/artigo/gabriel-rufian-o-independentista-bom-orador-que-sonha-unir-a-esquerda-espanhola/18107426
+    author: "Rei, J."
   - date: 2026-03-20
     outlet: "InfoLibre"
     title: "Anatomía del fenómeno Rufián, el político que habla como la calle y siembra la esperanza en la izquierda"
@@ -93,6 +98,11 @@ press:
     title: "El triunfo de los partidos locales y regionales planta cara al bipartidismo en Castilla y León"
     url: https://www.eldiario.es/castilla-y-leon/politica/triunfo-partidos-locales-regionales-planta-cara-bipartidismo-castilla-leon_1_10259986.html
     author: "Camazón, A."
+  - date: 2022-10-25
+    outlet: "El País"
+    title: "Despoblación: Por qué la España vacía se llena de partidos de provincia"
+    url: https://elpais.com/espana/2022-10-25/por-que-la-espana-vacia-se-llena-de-partidos-de-provincia.html
+    author: "Navarro, J."
   - date: 2022-06-18
     outlet: "eldiario.es"
     title: "Quién votó a Vox en Castilla y León: hombres, jóvenes, autónomos y de clase alta"
