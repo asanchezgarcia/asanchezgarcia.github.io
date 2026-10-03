@@ -1,0 +1,45 @@
+name: Build preview (rediseno)
+
+# Builds the "rediseno" branch and stores the generated site in the
+# "preview-site" branch, so changes can be reviewed before they go live.
+# It never touches the live website (gh-pages).
+
+on:
+  push:
+    branches:
+      - rediseno
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: preview
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2.2"
+          bundler-cache: true
+      - name: Build
+        run: |
+          pip3 install --upgrade jupyter
+          export JEKYLL_ENV=production
+          bundle exec jekyll build
+      - name: Purge unused CSS
+        run: |
+          npm install -g purgecss
+          purgecss -c purgecss.config.js
+      - name: Store preview
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site
+          branch: preview-site
+          single-commit: true
