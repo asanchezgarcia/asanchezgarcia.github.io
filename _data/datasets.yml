@@ -1,0 +1,29 @@
+# Datasets shown as cards on the Data page.
+# Fields: title, image (file in assets/img/data/), year, tags (list), summary (1–2 lines),
+#         description (optional, longer text shown on "More"), url, repository (button label),
+#         doi (optional), citation (optional, shown with a copy button).
+
+- title: "Populist Attitudes and Political Preferences after the Great Recession"
+  subtitle: "Spain (2020), Argentina (2020), Italy (2020), Portugal (2020) and Germany (2021)"
+  image: populist-attitudes.jpg
+  year: 2024
+  tags: [Survey, 5 countries, Populism]
+  summary: >
+    Five online public opinion surveys to map populist attitudes, programmatic preferences
+    and their links with voting and electoral competition.
+  description: >
+    This dataset consists of five surveys designed to disentangle the relationships between populist
+    attitudes, programmatic preferences, political values and socio-demographic characteristics across
+    different party systems, and the direct and indirect effects of these attitudes on voting and electoral
+    competition. As the second wave of the Populist Attitudes and Political Preferences survey, it gives
+    access to data from online public opinion surveys conducted in Spain (2020), Argentina (2020),
+    Portugal (2020), Italy (2020) and Germany (2021).
+  url: https://doi.org/10.7910/DVN/GQ89SK
+  repository: Harvard Dataverse
+  doi: 10.7910/DVN/GQ89SK
+  citation: >
+    Ramos-González, J., Rodrigues-Silveira, R., Sánchez-García, Á., Sendra, M., Setien Escamendi, G.,
+    Wiesehomeier, N., Boscán, G., Damiani, M., García Díez, F., García Sanz, M. D., Gómez-Reino, M.,
+    Gutiérrez, J. M., Llamazares, I., Lisi, M., Manrique García, M. A., Marcos-Marne, H., & Plaza-Colodro, C. (2024).
+    Populist Attitudes and Political Preferences after the Great Recession: Spain (2020), Argentina (2020),
+    Italy (2020), Portugal (2020), and Germany (2021) (V2) [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/GQ89SK
